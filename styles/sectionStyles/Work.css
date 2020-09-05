@@ -1,0 +1,23 @@
+.Work {
+    background: var(--greyBackground);
+}
+
+.Work_title {
+    color: var(--accentYellow);
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.Work_subTitle {
+    color: var(--accentBlue);
+    font-size: 2rem;
+}
+
+.Work_projectTitle {
+    color: var(--accentBlue);
+}
+
+.Work_projectInfo {
+    color: var(--blueOpacity);
+    
+}
